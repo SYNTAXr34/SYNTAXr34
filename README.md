@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SYNTAX
+- 👋 Hi, I’m NAZIM aka(SYNTAX)
 - 👀 I’m interested in ...coding researching...etc
-- 🌱 I’m currently learning ...bsc comp science
+- 🌱 I’m currently learning ...python django react 
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...ig.syntax_r34
 
